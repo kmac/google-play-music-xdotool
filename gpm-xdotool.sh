@@ -1,13 +1,13 @@
 #!/bin/sh
 
-# https://github.com/kmac/rdio-xdotool
+# https://github.com/kmac/google-play-music-xdotool
 #
 # This simple script uses xdotool to control the google play music app.
 # It's best used for binding to global hotkeys. For example,
 # I use win-p for play/pause, win-[ for previous, and win-]
 # for next.
 #
-# Note: this assumes we're running rdio as a separate chrome app.
+# Note: this assumes we're running Google Play Music as a separate chrome app.
 # It's easier for xdotool to find and interact with the window
 # in this mode.
 
